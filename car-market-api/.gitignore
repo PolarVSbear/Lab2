@@ -1,0 +1,119 @@
+# ==========================
+#      PYTHON / FLASK
+# ==========================
+
+# Виртуальное окружение
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.pdb
+*.egg-info/
+*.egg
+.cache/
+.pytest_cache/
+pip-wheel-metadata/
+
+# Логи
+*.log
+
+# ==========================
+#     VISUAL STUDIO
+# ==========================
+
+# VS system folder
+.vs/
+
+# Пользовательские настройки VS
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Bin / Obj build folders
+[Bb]in/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]og/
+[Ll]ogs/
+
+# Debug / Release
+[Dd]ebug*/
+[Rr]elease*/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+[Bb]uild*/
+[Bb]inaries/
+
+# Caches
+*.cache
+*.ilk
+*.ncb
+*.opensdf
+*.sdf
+*.ipch
+*.tlog
+
+# Visual Studio Test files
+[Tt]est[Rr]esult*/
+[Tt]est[Rr]esults/
+*.trx
+*.coverage
+*.coveragexml
+
+# SQL Server files (если создаются локально)
+*.mdf
+*.ldf
+*.ndf
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Rider
+.idea/
+
+# ==========================
+#           OS
+# ==========================
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+
+# ==========================
+#        OTHER
+# ==========================
+
+# Backup files
+*.bak
+*.old
+*.orig
+
+# Temp files
+*.tmp
+*.temp
+
+# Python virtual environment cache
+wheelhouse/
